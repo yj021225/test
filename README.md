@@ -73,7 +73,7 @@ df.head()
 ### 2.1 구글
 * [Vision API](https://cloud.google.com/vision?hl=ko)
 * 이미지 크기 조정 불가
-![vision_api_log](./vision_api_logo.png)
+![vision_api_log](https://community.appinventor.mit.edu/uploads/default/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf)
 * 이미지 크기 조정 가능
 <p align="center">
 <img src="./vision_api_logo.png" width="200"/>
