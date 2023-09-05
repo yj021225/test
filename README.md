@@ -76,7 +76,7 @@ df.head()
 ![vision_api_log](https://community.appinventor.mit.edu/uploads/default/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf)
 * 이미지 크기 조정 가능
 <p align="center">
-<img src="./vision_api_logo.png" width="200"/>
+<img src="https://community.appinventor.mit.edu/uploads/default/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf" width="200"/>
 </p>
   
 
